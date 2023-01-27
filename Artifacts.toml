@@ -1,4 +1,212 @@
 [[Qt6ShaderTools]]
+arch = "aarch64"
+git-tree-sha1 = "5c6443d642cbec8d7fb9f4a679e488dca335c8ee"
+os = "macos"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "494b0d8abf0c5f11cc02193b1b6c8a1fe14154318ab68302aeeea3eaab850c70"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.aarch64-apple-darwin.tar.gz"
+[[Qt6ShaderTools]]
+arch = "x86_64"
+git-tree-sha1 = "51117a19559883b43e4b6a5c6cb1d3534f5eb739"
+os = "macos"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "5f19658613095c9c0e8117b8a9830b0c77cb719f66d4813904766d7e37bb2670"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.x86_64-apple-darwin.tar.gz"
+[[Qt6ShaderTools]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bcb486860519be9d5d9a4ba04fbb6baa582188f9"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "8f69b991ae93ba418ac5a98a7c9e92fb83fbc65b05442782d03d6f16c3debbdc"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18ea52f17fa0fd77663b647484ae7230ccbcac5a"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "800808e4419b45e7cd8a85a407269d7870d4020ab85a0d36d9174d1f0e9105b2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "811890087de25f288df2c7cf051ebd60204fdff4"
+libc = "musl"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "49c4f7540a49ab0bbb073398d3f800bd1f7da5f43c8ee8c5170a97e97b72ace6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d20f72adaeace58272121d400215f542d0393b1e"
+libc = "musl"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "28be08fbdc5ac0859c8f05eea733a0360d688e4660b604704cf4303dff766f29"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "724ae0f2875aecc00c33d033a9073b7c590812aa"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "a1c3c81f9afe5fff0c9e287068060d6e9cb45b41f7eaea9de1eba750c3a28ba1"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c5c139dd52029187ed19db17f8efe13cda8b9b1"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "36792fe636867f2d9c2f0fccec0efe1a2e948f14522b439dda7fbb262b082094"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a456662350ed733f2760f32f94a619499a3511dc"
+libc = "musl"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "8d76d3645cdb0057b675810f1964761362c7cbb73cdbfc71906010c7eb4e8044"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f217c044aaa66ebb9cba9c36222c6b22c63810b1"
+libc = "musl"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "7f4b96a2cc324c18aad09c6cd465cb55cdafce5cb756bf359529bf8c1d3eaace"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e0df92dee0e168f2275fad860d2edd7c13d22df7"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "b1700df0b8434b050d6f9770ac82d05436718a8a96e5c3a0bf572d6e7580f165"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a57c64fb13677a6364b967e81535cd2dd79a971"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "69bc0b3bcde25de58c341e5e7c59dcdc036a357f3a1ad8cff1620c7657244d05"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a00dccad9bb7cc062de7448a04e71ac38651068d"
+libc = "musl"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "4d1d292d0b8d60bc74b0f0bf6a90e067581ab57494c997c06f3a4a5030d59f59"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e148a84e1085c1b71e05a3cffc351572499dcb61"
+libc = "musl"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "04f0c49f2f50a54d99bdfa334936eca85359dcaa91935339b3f97adbe97053a4"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "797fa1c1d3edb40acb9e511687b7c062de2feff7"
+os = "windows"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "cad049218a8e4f8f39b1311a9225bbee51dd543dd2c2e16d4982a90efc111d13"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0895c3ca2e40778120032dc4f35ab2e6343e4b23"
+os = "windows"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "316a3919845660acdc38f464af846a0c86c2d339fa0108eb1c9e862c644f1c7f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bfaaa8b654826b750f9ff855c2ee7e940e8b3796"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "3dbaf53a9c0ae35c5ea2ed770779f8fea232f0671fc1d7531be56e97bf2f4376"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad1d1d36bba93694620d8f34c17969b7e4d3d035"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "0d0cfcfda33fcdd0d0120e11c4aef283f58207ee09f7115290625a16591bd9e8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cfaa37697d934385fb728f528c9ce47a530d7451"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "32dbdba6eea9a32413ca04983a041ab7b248ab446c2c12c63225afaa2d879b37"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "19868da5d58f16b0f3b69175ee86452445d9a85b"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "74235ee8772aa5b0fb94b6eb10eb522db0b5c0a36cc350130e26b722281a165e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f59dbbc43071cea327e8ef0abd72817b276e1b3"
+libc = "musl"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "59946583cd6f89de52de51fe6bded07594025198d4118670601c52be1c23fea8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6ShaderTools]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "5922930c78b796da08289e8e862e53715c861001"
@@ -7,4 +215,30 @@ os = "linux"
 
     [[Qt6ShaderTools.download]]
     sha256 = "ae8ca7c3b06a47a71d52640d16829cdafb06c7c13fae29595a0390eba6462591"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+0/Qt6ShaderTools.v6.4.2.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "x86_64"
+git-tree-sha1 = "28664d69379cc4210a5277f71f2a4c470b64e4aa"
+os = "freebsd"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "ff5daa65812735d22ca5425c94678c3bf39dfd337442d26f548510303e1b6385"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.x86_64-unknown-freebsd.tar.gz"
+[[Qt6ShaderTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "260f6661e38cc799a7572a22bbbfda13a7291cbc"
+os = "windows"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "ce9b321ec87ec5fe5a2eb16953bc9eb937861a7087d41e593e1e6ca84e8ecf1d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt6ShaderTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c069be8749863a54369211971a159868d6647f1"
+os = "windows"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "adcce2e83679445a39908105b17f10d7ccfc8e4d2499944d59179fd2a6c2e342"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.4.2+1/Qt6ShaderTools.v6.4.2.x86_64-w64-mingw32-cxx11.tar.gz"
