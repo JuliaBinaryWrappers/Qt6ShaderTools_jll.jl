@@ -1,6 +1,6 @@
 name = "Qt6ShaderTools_jll"
 uuid = "ce943373-25bb-56aa-8eca-768745ed7b5a"
-version = "6.7.1+0"
+version = "6.7.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
